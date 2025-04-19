@@ -1,0 +1,838 @@
+{
+    "adobe": {
+        "color": true,
+        "text": true
+    },
+    "adobefirefly": {
+        "color": true,
+        "text": true
+    },
+    "ai21-brand": {
+        "color": true
+    },
+    "ai21": {
+        "brand": true,
+        "text": true
+    },
+    "ai360": {
+        "color": true,
+        "text": true
+    },
+    "aihubmix": {
+        "color": true,
+        "text": true
+    },
+    "aimass": {
+        "color": true,
+        "text": true
+    },
+    "aionlabs": {
+        "color": true,
+        "text": true
+    },
+    "aistudio": {
+        "color": true,
+        "text": true
+    },
+    "alephalpha": {
+        "text": true
+    },
+    "alibaba-brand": {
+        "color": true
+    },
+    "alibaba": {
+        "brand": true,
+        "color": true,
+        "text": true
+    },
+    "alibaba-text": {
+        "cn": true
+    },
+    "alibabacloud": {
+        "color": true,
+        "text": true
+    },
+    "alibabacloud-text": {
+        "cn": true
+    },
+    "antgroup-brand": {
+        "color": true
+    },
+    "antgroup": {
+        "brand": true,
+        "color": true,
+        "text": true
+    },
+    "antgroup-text": {
+        "cn": true
+    },
+    "anthropic": {
+        "text": true
+    },
+    "anyscale": {
+        "color": true,
+        "text": true
+    },
+    "assemblyai": {
+        "color": true,
+        "text": true
+    },
+    "automatic": {
+        "color": true,
+        "text": true
+    },
+    "aws-brand": {
+        "color": true
+    },
+    "aws": {
+        "brand": true,
+        "color": true,
+        "text": true
+    },
+    "aya": {
+        "color": true,
+        "text": true
+    },
+    "azure": {
+        "color": true,
+        "text": true
+    },
+    "azureai": {
+        "color": true,
+        "text": true
+    },
+    "baai": {
+        "text": true
+    },
+    "baichuan": {
+        "color": true,
+        "text": true
+    },
+    "baidu-brand": {
+        "color": true
+    },
+    "baidu": {
+        "brand": true,
+        "color": true,
+        "text": true
+    },
+    "baidu-text": {
+        "cn": true
+    },
+    "baiducloud": {
+        "color": true,
+        "text": true
+    },
+    "bedrock": {
+        "color": true,
+        "text": true
+    },
+    "bing": {
+        "color": true,
+        "text": true
+    },
+    "bytedance-brand": {
+        "color": true
+    },
+    "bytedance": {
+        "brand": true,
+        "color": true,
+        "text": true
+    },
+    "bytedance-text": {
+        "cn": true
+    },
+    "centml-brand": {
+        "color": true
+    },
+    "centml": {
+        "brand": true,
+        "color": true,
+        "text": true
+    },
+    "cerebras-brand": {
+        "color": true
+    },
+    "cerebras": {
+        "brand": true,
+        "color": true,
+        "text": true
+    },
+    "chatglm": {
+        "color": true,
+        "text": true
+    },
+    "civitai": {
+        "color": true,
+        "text": true
+    },
+    "civitai-text": {
+        "color": true
+    },
+    "claude": {
+        "color": true,
+        "text": true
+    },
+    "cline": {
+        "text": true
+    },
+    "clipdrop": {
+        "text": true
+    },
+    "cloudflare": {
+        "color": true,
+        "text": true
+    },
+    "codegeex": {
+        "color": true,
+        "text": true
+    },
+    "cogvideo": {
+        "color": true,
+        "text": true
+    },
+    "cogview": {
+        "color": true,
+        "text": true
+    },
+    "cohere": {
+        "color": true,
+        "text": true
+    },
+    "colab": {
+        "color": true,
+        "text": true
+    },
+    "comfyui": {
+        "color": true,
+        "text": true
+    },
+    "commanda": {
+        "color": true,
+        "text": true
+    },
+    "copilot": {
+        "color": true,
+        "text": true
+    },
+    "coqui": {
+        "color": true,
+        "text": true
+    },
+    "coze": {
+        "text": true
+    },
+    "crewai-brand": {
+        "color": true
+    },
+    "crewai": {
+        "brand": true,
+        "color": true,
+        "text": true
+    },
+    "crusoe": {
+        "color": true,
+        "text": true
+    },
+    "cursor": {
+        "text": true
+    },
+    "dalle": {
+        "color": true,
+        "text": true
+    },
+    "dbrx-brand": {
+        "color": true
+    },
+    "dbrx": {
+        "brand": true,
+        "color": true,
+        "text": true
+    },
+    "deepai": {
+        "text": true
+    },
+    "deepinfra": {
+        "color": true,
+        "text": true
+    },
+    "deepmind": {
+        "color": true,
+        "text": true
+    },
+    "deepseek": {
+        "color": true,
+        "text": true
+    },
+    "dify": {
+        "color": true,
+        "text": true
+    },
+    "dify-text": {
+        "color": true
+    },
+    "doc2x": {
+        "color": true,
+        "text": true
+    },
+    "docsearch": {
+        "color": true,
+        "text": true
+    },
+    "doubao": {
+        "color": true,
+        "text": true
+    },
+    "dreammachine": {
+        "text": true
+    },
+    "exa": {
+        "color": true,
+        "text": true
+    },
+    "fal": {
+        "text": true
+    },
+    "featherless": {
+        "color": true,
+        "text": true
+    },
+    "fireworks": {
+        "color": true,
+        "text": true
+    },
+    "fishaudio": {
+        "text": true
+    },
+    "flora": {
+        "text": true
+    },
+    "flowith": {
+        "text": true
+    },
+    "flux": {
+        "text": true
+    },
+    "friendli": {
+        "text": true
+    },
+    "gemini-brand": {
+        "color": true
+    },
+    "gemini": {
+        "brand": true,
+        "color": true,
+        "text": true
+    },
+    "gemma": {
+        "color": true,
+        "text": true
+    },
+    "giteeai": {
+        "text": true
+    },
+    "github": {
+        "text": true
+    },
+    "githubcopilot": {
+        "text": true
+    },
+    "glif": {
+        "text": true
+    },
+    "google-brand": {
+        "color": true
+    },
+    "google": {
+        "brand": true,
+        "color": true
+    },
+    "goose": {
+        "text": true
+    },
+    "gradio": {
+        "color": true,
+        "text": true
+    },
+    "greptile": {
+        "color": true,
+        "text": true
+    },
+    "grok": {
+        "text": true
+    },
+    "groq": {
+        "text": true
+    },
+    "hailuo": {
+        "color": true,
+        "text": true
+    },
+    "haiper": {
+        "text": true
+    },
+    "hedra": {
+        "text": true
+    },
+    "higress": {
+        "color": true,
+        "text": true
+    },
+    "huggingface": {
+        "color": true,
+        "text": true
+    },
+    "hunyuan": {
+        "color": true,
+        "text": true
+    },
+    "hyperbolic": {
+        "color": true,
+        "text": true
+    },
+    "ideogram": {
+        "text": true
+    },
+    "iflytekcloud": {
+        "color": true,
+        "text": true
+    },
+    "inference": {
+        "text": true
+    },
+    "infermatic": {
+        "color": true,
+        "text": true
+    },
+    "infinigence": {
+        "color": true,
+        "text": true
+    },
+    "infinigence-text": {
+        "cn": true
+    },
+    "inflection": {
+        "text": true
+    },
+    "internlm": {
+        "color": true,
+        "text": true
+    },
+    "jina": {
+        "color": true,
+        "text": true
+    },
+    "kera": {
+        "text": true
+    },
+    "kimi": {
+        "color": true,
+        "text": true
+    },
+    "kling": {
+        "color": true,
+        "text": true
+    },
+    "kluster": {
+        "color": true,
+        "text": true
+    },
+    "lambda": {
+        "text": true
+    },
+    "langchain": {
+        "color": true,
+        "text": true
+    },
+    "langfuse": {
+        "color": true,
+        "text": true
+    },
+    "langgraph": {
+        "color": true,
+        "text": true
+    },
+    "langsmith": {
+        "color": true,
+        "text": true
+    },
+    "leptonai": {
+        "color": true,
+        "text": true
+    },
+    "lightricks": {
+        "text": true
+    },
+    "liquid": {
+        "text": true
+    },
+    "livekit": {
+        "color": true,
+        "text": true
+    },
+    "llamaindex": {
+        "color": true,
+        "text": true
+    },
+    "llava": {
+        "color": true,
+        "text": true
+    },
+    "lmstudio": {
+        "text": true
+    },
+    "lobehub": {
+        "color": true,
+        "text": true
+    },
+    "luma": {
+        "color": true,
+        "text": true
+    },
+    "magic": {
+        "text": true
+    },
+    "make": {
+        "color": true,
+        "text": true
+    },
+    "manus": {
+        "text": true
+    },
+    "mcp": {
+        "text": true
+    },
+    "meta-brand": {
+        "color": true
+    },
+    "meta": {
+        "brand": true,
+        "color": true,
+        "text": true
+    },
+    "microsoft": {
+        "color": true,
+        "text": true
+    },
+    "midjourney": {
+        "text": true
+    },
+    "minimax": {
+        "color": true,
+        "text": true
+    },
+    "mistral": {
+        "color": true,
+        "text": true
+    },
+    "modelscope": {
+        "color": true,
+        "text": true
+    },
+    "monica": {
+        "color": true,
+        "text": true
+    },
+    "moonshot": {
+        "text": true
+    },
+    "myshell": {
+        "color": true,
+        "text": true
+    },
+    "n8n": {
+        "color": true,
+        "text": true
+    },
+    "nebius": {
+        "text": true
+    },
+    "notebooklm": {
+        "text": true
+    },
+    "notion": {
+        "text": true
+    },
+    "nova": {
+        "color": true,
+        "text": true
+    },
+    "novita": {
+        "color": true,
+        "text": true
+    },
+    "nplcloud": {
+        "color": true,
+        "text": true
+    },
+    "nvidia": {
+        "color": true,
+        "text": true
+    },
+    "ollama": {
+        "text": true
+    },
+    "openai": {
+        "text": true
+    },
+    "openchat": {
+        "color": true,
+        "text": true
+    },
+    "openrouter": {
+        "text": true
+    },
+    "openwebui": {
+        "text": true
+    },
+    "palm": {
+        "color": true,
+        "text": true
+    },
+    "parasail": {
+        "text": true
+    },
+    "perplexity": {
+        "color": true,
+        "text": true
+    },
+    "phidata": {
+        "color": true,
+        "text": true
+    },
+    "pika": {
+        "text": true
+    },
+    "pixverse": {
+        "color": true,
+        "text": true
+    },
+    "poe": {
+        "color": true,
+        "text": true
+    },
+    "pollinations": {
+        "text": true
+    },
+    "ppio-brand": {
+        "color": true
+    },
+    "ppio": {
+        "brand": true,
+        "color": true,
+        "text": true
+    },
+    "ppio-text": {
+        "cn": true
+    },
+    "qingyan": {
+        "color": true,
+        "text": true
+    },
+    "qwen": {
+        "color": true,
+        "text": true
+    },
+    "railway": {
+        "text": true
+    },
+    "recraft": {
+        "text": true
+    },
+    "replicate": {
+        "brand": true
+    },
+    "replit": {
+        "color": true,
+        "text": true
+    },
+    "rsshub": {
+        "color": true,
+        "text": true
+    },
+    "runway": {
+        "text": true
+    },
+    "rwkv": {
+        "color": true,
+        "text": true
+    },
+    "sambanova": {
+        "color": true,
+        "text": true
+    },
+    "search1api": {
+        "color": true,
+        "text": true
+    },
+    "searchapi": {
+        "text": true
+    },
+    "sensenova-brand": {
+        "color": true
+    },
+    "sensenova": {
+        "brand": true,
+        "color": true,
+        "text": true
+    },
+    "siliconcloud": {
+        "color": true,
+        "text": true
+    },
+    "snowflake": {
+        "color": true,
+        "text": true
+    },
+    "spark": {
+        "color": true,
+        "text": true
+    },
+    "stability-brand": {
+        "color": true
+    },
+    "stability": {
+        "brand": true,
+        "color": true,
+        "text": true
+    },
+    "statecloud": {
+        "color": true,
+        "text": true
+    },
+    "stepfun": {
+        "color": true,
+        "text": true
+    },
+    "suno": {
+        "text": true
+    },
+    "sync": {
+        "text": true
+    },
+    "targon": {
+        "color": true,
+        "text": true
+    },
+    "tencent-brand": {
+        "color": true
+    },
+    "tencent": {
+        "brand": true,
+        "color": true,
+        "text": true
+    },
+    "tencent-text": {
+        "cn": true
+    },
+    "tencentcloud": {
+        "color": true,
+        "text": true
+    },
+    "tiangong": {
+        "color": true,
+        "text": true
+    },
+    "tii": {
+        "color": true,
+        "text": true
+    },
+    "together-brand": {
+        "color": true
+    },
+    "together": {
+        "brand": true,
+        "color": true,
+        "text": true
+    },
+    "topazlabs": {
+        "text": true
+    },
+    "tripo": {
+        "color": true,
+        "text": true
+    },
+    "udio": {
+        "color": true,
+        "text": true
+    },
+    "unstructured": {
+        "color": true,
+        "text": true
+    },
+    "upstage": {
+        "color": true,
+        "text": true
+    },
+    "v0": {},
+    "vectorizerai": {
+        "text": true
+    },
+    "vercel": {
+        "text": true
+    },
+    "vertexai": {
+        "color": true,
+        "text": true
+    },
+    "vidu": {
+        "color": true,
+        "text": true
+    },
+    "viggle": {
+        "text": true
+    },
+    "vllm": {
+        "color": true,
+        "text": true
+    },
+    "volcengine": {
+        "color": true,
+        "text": true
+    },
+    "voyage": {
+        "color": true,
+        "text": true
+    },
+    "wenxin": {
+        "color": true,
+        "text": true
+    },
+    "workersai": {
+        "color": true,
+        "text": true
+    },
+    "xai": {
+        "text": true
+    },
+    "xinference": {
+        "color": true,
+        "text": true
+    },
+    "xuanyuan": {
+        "color": true,
+        "text": true
+    },
+    "yandex": {
+        "text": true
+    },
+    "yi": {
+        "color": true,
+        "text": true
+    },
+    "yuanbao": {
+        "color": true,
+        "text": true
+    },
+    "zeabur": {
+        "color": true,
+        "text": true
+    },
+    "zeroone": {
+        "text": true
+    },
+    "zhipu": {
+        "color": true,
+        "text": true
+    }
+}

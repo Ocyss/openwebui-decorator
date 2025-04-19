@@ -1,0 +1,102 @@
+@import "tailwindcss";
+
+@plugin "@iconify/tailwind4";
+
+@config "../tailwind.config.mjs";
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(156, 163, 175, 0.5);
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(156, 163, 175, 0.8);
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background-color: rgba(75, 85, 99, 0.5);
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(75, 85, 99, 0.8);
+}
+
+
+/* 
+circle-blur-top-left 
+https://github.com/rudrodip/theme-toggle-effect
+thank you @rds_agi
+*/
+
+::view-transition-group(root) {
+  animation-timing-function: var(--expo-out);
+}
+::view-transition-new(root) {
+  mask: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><defs><filter id="blur"><feGaussianBlur stdDeviation="2"/></filter></defs><circle cx="0" cy="0" r="18" fill="white" filter="url(%23blur)"/></svg>') top left / 0 no-repeat;
+  mask-origin: content-box;
+  animation: scale 1s;
+  transform-origin: top left;
+}
+::view-transition-old(root),
+.dark::view-transition-old(root) {
+  animation: scale 1s;
+  transform-origin: top left;
+  z-index: -1;
+}
+
+@keyframes scale {
+  to {
+    mask-size: 350vmax;
+  }
+}
+
+
+
+html {
+  @import '@speed-highlight/core/themes/default.css';
+  [class*="shj-lang-"]{
+    padding: 10px;
+  }
+}
+
+html.dark {
+  @import '@speed-highlight/core/themes/atom-dark.css';
+  [class*="shj-lang-"]{
+    padding: 10px;
+  }
+}
+
+
+
+.llm-avatar:has(img[src="/static/favicon.png"]) {
+  @apply border-1;
+}
+
+img[src*="@lobehub/icons-static-"] {
+  transition: filter 0.3s ease;
+}
+
+html img[src*="@lobehub/icons-static-png"][src*="dark"]:not([src$="-color.png"]),
+html.dark img[src*="@lobehub/icons-static-png"][src*="light"]:not([src$="-color.png"]),
+html.dark img[src*="@lobehub/icons-static-svg"]:not([src$="-color.svg"]) {
+  filter: invert(1);
+}
+
+html [data-theme-reverse] img[src*="@lobehub/icons-static-png"][src*="light"]:not([src$="-color.png"]),
+html [data-theme-reverse] img[src*="@lobehub/icons-static-svg"]:not([src$="-color.svg"]) {
+  filter: invert(1);
+}
+
+html.dark [data-theme-reverse] img[src*="@lobehub/icons-static-png"][src*="light"]:not([src$="-color.png"]),
+html [data-theme-reverse] img[src*="@lobehub/icons-static-svg"]:not([src$="-color.svg"]) {
+  filter: invert(0);
+}
